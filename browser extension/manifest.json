@@ -1,0 +1,15 @@
+{
+    "manifest_version":2,
+    "name": " hello kitty",
+    "version": "1.0",
+    "description":"simple kitten",
+    "icons": {"128":"kitten.png"},
+
+    "browser_action":{
+      "default_icon":"kitten.png",
+      "default_popup":"popup.html"
+    },
+
+    
+    "options_page":"options.html"
+}

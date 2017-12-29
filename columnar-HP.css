@@ -1,0 +1,16 @@
+
+   body {
+    font-family: Arial, Verdana, sans-serif;
+    text-align: left;}
+
+h1 {
+    color: #5218f1;}
+
+div.box {
+    background-color: #bbbbaa;}  
+        
+    .column1, .column2, .column3 {
+        width: 300px;
+        float: left;
+        margin: 10px;
+        border-width: thick;}

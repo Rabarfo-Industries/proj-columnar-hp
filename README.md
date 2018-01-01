@@ -7,11 +7,11 @@ A columnar homepage plugin for your browser. All your favorite websites packaged
 - layout form
 - vertical layout framework template for content feed with floating element columns
 
-### v1.1
+### v.1.1
 ### Completed
 - added manifest.json
 - chrome extension rabarfo industries icon with popup
 - see devChromeInstall.txt to installation 
 
-v1.2
+v.1.2
 

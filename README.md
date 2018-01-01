@@ -9,7 +9,7 @@ A columnar homepage plugin for your browser. All your favorite websites packaged
 
 ### v1.1
 ### Completed
--added manifest.json
--chrome extension rabarfo industries icon with popup
--see devChromeInstall.txt to installation 
+- added manifest.json
+- chrome extension rabarfo industries icon with popup
+- see devChromeInstall.txt to installation 
 

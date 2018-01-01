@@ -13,3 +13,5 @@ A columnar homepage plugin for your browser. All your favorite websites packaged
 - chrome extension rabarfo industries icon with popup
 - see devChromeInstall.txt to installation 
 
+v1.2
+

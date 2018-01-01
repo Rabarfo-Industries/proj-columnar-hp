@@ -1,0 +1,16 @@
+{
+    "manifest_version" : 2, 
+    "name" : "Columnar Home Page",
+    "version" : "1.0",
+    "description": "A columnar homepage plugin for your browser. All your favorite websites packaged into a columnar design. Aesthetically pleasing and delivers a summary of what you really want to know.",
+    "icons": {
+        "128": "RabarfoIndistries.PNG",
+        "48": "RabarfoIndistries.PNG",
+        "16": "RabarfoIndistries.PNG"
+    },
+    "browser_action":{
+        "default_icon": "RabarfoIndistries.PNG",
+        "default_popup": "columnar-HP.html"
+    }
+
+}

@@ -8,9 +8,14 @@
         "48": "RabarfoIndistries.PNG",
         "16": "RabarfoIndistries.PNG"
     },
+
+    "background": {
+        "persistent": false,
+        "scripts": ["popup.js"]
+      },
+
     "browser_action":{
-        "default_icon": "RabarfoIndistries.PNG",
-        "default_popup": "columnar-HP.html"
+        "default_icon": "RabarfoIndistries.PNG"
     }
 
 }
